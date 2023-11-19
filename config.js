@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Lúc đầu tớ nghĩ,gặp cậu chỉ là một sự tình cờ,nhưng cậu biết không chắc có lẽ tớ đã dành hết sự may mắn vào
     sự tình cờ này.Cậu như ánh sáng mặt trời trong cuộc sống tối tăm của tớ.`,
     btnIntro: '^^HiHi^^',
-    title: 'Tớ rất muổn tỏ tình trực tiếp với cậu nhưng tớ sợ đến lúc đó mình sẽ không còn cơ hôi :3',
+    title: 'Tớ rất muổn tỏ tình trực tiếp với cậu nhưng tớ sợ đến lúc đó mình sẽ không còn cơ hội :3',
     desc: 'Tớ có thể làm bạn trai cậu được không :> ?',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
