@@ -5,7 +5,7 @@ const CONFIG = {
     sự tình cờ này.Cậu như ánh sáng mặt trời trong cuộc sống tối tăm của tớ.`,
     btnIntro: '^^HiHi^^',
     title: 'Tớ rất muổn tỏ tình trực tiếp với cậu nhưng tớ sợ đến lúc đó mình sẽ không còn cơ hội :3',
-    desc: 'Tớ có thể làm bạn trai cậu được không :> ?',
+    desc: 'Tớ có thể làm bạn trai cậu được không :> ? Cứ suy nghĩ một lúc đi nha,dù ra sao tớ vẫn luôn tôn trọng quyết định của cậu :>',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Suy nghĩ kĩ rồi đó nha hihi :>,cậu muốn nói với tớ điều gì khum <3',
